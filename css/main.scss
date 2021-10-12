@@ -1,0 +1,12 @@
+---
+---
+
+// Essse arquivo deve conter apenas referencias
+// aos arquivos da pasta _sass com a diretiva 
+// @import
+// isso é um padrão exclusivo de projetos do jekyll
+@import "vars"; //_sass/_vars.scss
+@import "defaults"; //_sass/_defaults.scss
+@import "monica"; //_sass/_monica.scss
+@import "helpers"; //_sass/_helpers.scss
+@import "layout";   //_sass/_layouts

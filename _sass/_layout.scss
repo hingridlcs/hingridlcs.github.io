@@ -1,0 +1,49 @@
+.site-wrapper {
+    @extend .vertical;
+    min-height: 100vh;
+}
+
+.site-header {
+    padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit;
+    box-shadow: 0 3px 5px 0 rgba(black, .1);
+}
+
+.site-title {
+    margin: 0;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.site-nav {
+    .site-link {
+        padding: .3em .5em;
+        margin-left: 1em;
+        color: $grey-color;
+
+        &:hover, &:focus, &:active {
+            background-color: $grey-color-light;
+            color: $brand-color;
+        }
+    }
+}
+
+.site-main {
+    flex: 1;
+}
+
+.site-footer {
+    padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit;
+    background-color: $grey-color-dark;
+    color: $grey-color-light;
+
+    .site-nav {
+        margin-left: $spacing-unit;
+        min-width: 12em;
+    }
+
+    .site-link {
+        display: block;
+    }
+}
