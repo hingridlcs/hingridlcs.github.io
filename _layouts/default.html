@@ -11,29 +11,32 @@
 
 <body>
     <div class="site-wrapper">
-        <header>
-            <h1>Titulo do Site</h1>
-            <nav>
-                <a href="/">Home</a>
-                <a href="#">Produtos</a>
-                <a href="#">Contato</a>
-            </nav>
+        <header class="site-header">
+            <div class="wrapper horizontal">
+                <h1 class="site-title">Titulo do Site</h1>
+                <nav class="site-nav">
+                    <a class="site-link" href="/">Home</a>
+                    <a class="site-link" href="/sobre.html">Sobre mim</a>
+                </nav>
+            </div>
         </header>
-        <main>
+        <main class="site-main wrapper">
             {{content}}
         </main>
-        <footer>
-            <p>
-                {{site.description}}
-            </p>
-            <nav>
-                <a href="/">Home</a>
-                <a href="#">Produtos</a>
-                <a href="#">Contato</a>
-            </nav>
+        <footer class="site-footer">
+            <div class="wrapper horizontal">
+                <div class="site-footer__description">
+                    <p>
+                        {{site.description}}
+                    </p>
+                </div>
+                <nav class="site-nav">
+                    <a class="site-link" href="/">Home</a>
+                    <a class="site-link" href="/sobre.html">Sobre mim</a>
+                </nav>
+            </div>
         </footer>
     </div>
-    <!--{{ content }} -->
 </body>
 
 </html>
