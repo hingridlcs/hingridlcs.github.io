@@ -5,30 +5,31 @@ title: "Iniciando HTML"
 
 O que é o HTML?
 
-HTML - Hyper-Text Markup Language (Linguagem de Marcação de Conteúdo)
+HTML - Hyper-Text Markup Language (Linguagem de Marcação de Conteúdo).
 
-Responsavel para informar ao navegador como o conteudo vai estar estrutrada na pagina Web.
-Se não houvesse o HTML a pagina seria um texto sem graça, então o HTML faz a formatação, inclui imagens, direciona a outros links e se existe tabela como será montada, se a pagina possui metadados que faz isso tambem.
-O HTML possui regras com semantica que são as tags e serão mostrados em blocos com estruturas.
+Responsavel para informar ao navegador como o conteúdo vai estar estrutrado na página Web.
+Se não houvesse o HTML, a página seria um texto sem graça, então o HTML faz a formatação, inclui imagens,  gera tabelas e direciona a outros links.
+
+O HTML possui regras com semântica que são as tags que serão mostradas em blocos com estruturas.
 
 <img src="imagens/sematica_tag" alt="Semantica de Tags">
 
-Um arquivo HTML deve possui essa 1a linha de comando que é a declaração de um tipo de documento.
+Um arquivo HTML deve possuir essa 1ª linha de comando que é a declaração de um tipo de documento.
 ```
 <!DOCTYPE html>
 ```
-A 2a linha de comando que mostra o Inicio e Fim do HTML.
+A 2ª linha de comando que mostra o início e fim do HTML.
 
 ```
 <html></html>
 ```
-A 3a linha é de inicio e Fim do cabeçalho da página.
+A 3ª linha é de início e fim do cabeçalho da página.
 
 ```
 <head></head>
 ```
 
-Nessa 3a linha nem tudo será mostrado a página mas terá informações importantes para o controle de sites de buscas que são as metas tags, scripts e titulo da página.
+Nessa 3ª linha nem tudo será mostrado a página, mas terá informações importantes para o controle de sites de buscas que são as metas tags, scripts e titulo da página.
 
 ```
 <head>
@@ -40,7 +41,7 @@ Nessa 3a linha nem tudo será mostrado a página mas terá informações importa
 </head>
 ```
 
-Na 4a linha onde estará o conteudo da página podendo ter texto, imagens, vídeos, jogos, audio ou qualquer outra coisa.
+Na 4ª linha onde estará o conteúdo da página podendo ter texto, imagens, vídeos, jogos, audio ou qualquer outra coisa.
 ```
 <body></body>
 
@@ -57,7 +58,7 @@ Serve para escrever textos e o browser insere uma linha antes e depois da tag.
         <p>Escrevendo um parágrafo</p>
 
 
-Insere uma imagem inserir um texto e até dimensionar a imagem.
+Insere uma imagem podendo incluir texto e até dimensionar.
 
         <img src="img_girl.jpg" alt="Menina de saia" width="500" height="600>
 
@@ -81,5 +82,6 @@ Define uma lista com marcadores.
 Utilizado para navegar de uma página para outra.
 
         <a href="https://www.w3schools.com">Visite W3Schools.com!</a>
+
 
 Na página da <a href="https://www.w3schools.com/tags/tag_ul.asp">W3schools</a> você consegue estudar e conhecer outras tags.
