@@ -5,7 +5,7 @@ CSS é a abreviação de Cascading Style Sheets.
 
 Com o surgimento da Web, as páginas antigamente não eram muito amigáveis sendo muito trabalhoso criar projetos interessantes. O HTML não era muito produtivo para realizar estilos, além de serem todas as paginas elaboradas em forma de tabelas.
 
-O CSS veio para revolucionar as aparencias das páginas Web e a W3C ajudou a dar um estilo e formatação as páginas, criando uma versão interessante utlizando a padronização [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) (modelo lógico em nós organizados em forma de árvore).
+O CSS veio para revolucionar as aparencias das páginas Web e a W3C ajudou a dar um estilo e formatação as páginas, criando uma versão interessante utlizando a padronização [DOM](https://en.wikipedia.org/wiki/Document_Object_Model){:target="_blank"} (modelo lógico em nós organizados em forma de árvore).
 
 Essa padronização ajuda na compatibilidade dos navegadores, recursos na aparência e a manutenção se torna simples, poupando tempo e dando maior flexibilidade para manter os projetos atualizados. 
 

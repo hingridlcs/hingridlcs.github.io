@@ -48,7 +48,7 @@ Na 4ª linha onde estará o conteúdo da página podendo ter texto, imagens, ví
 
 Abaixo a estrutura de uma página HTML
 
-<img src="imagens/estrutura_HTML" alt="Estrutura HTML">
+![Estrutura HTML](/imagens/estrutura_html.jpg)
 
 Segue abaixo algumas tags mais utilizadas
 
