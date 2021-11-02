@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Iniciando HTML"
 ---
 
@@ -12,7 +11,7 @@ Se não houvesse o HTML, a página seria um texto sem graça, então o HTML faz 
 
 O HTML possui regras com semântica que são as tags que serão mostradas em blocos com estruturas.
 
-<img src="imagens/sematica_tag" alt="Semantica de Tags">
+[Semantica de Tags](imagens/sematica_tag)
 
 Um arquivo HTML deve possuir essa 1ª linha de comando que é a declaração de um tipo de documento.
 ```
@@ -84,4 +83,4 @@ Utilizado para navegar de uma página para outra.
         <a href="https://www.w3schools.com">Visite W3Schools.com!</a>
 
 
-Na página da <a href="https://www.w3schools.com/tags/tag_ul.asp">W3schools</a> você consegue estudar e conhecer outras tags.
+Na página da [W3schools](https://www.w3schools.com/tags/tag_ul.asp) você consegue estudar e conhecer outras tags.
