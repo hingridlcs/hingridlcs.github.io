@@ -61,11 +61,11 @@ Variáveis e funções no CSS
 
 Alguns links para estudos
 
-[https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/](https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/)
+[https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/](https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/){:target="_blank"}
 
-[https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+[https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties){:target="_blank"}
 
-[https://www.ranoya.com/books/public/css/funcoescss.php](https://www.ranoya.com/books/public/css/funcoescss.php)
+[https://www.ranoya.com/books/public/css/funcoescss.php](https://www.ranoya.com/books/public/css/funcoescss.php){:target="_blank"}
 
 
 Existem alguns pré-processadores CSS como Sass, Less e Stylus entre outros. Eles são interpretadores de código e cada um com suas regras geram um codigo CSS. Nos pré-processadores podemos criar variáveis, condicionais, laços, repetições, importações e até heranças.

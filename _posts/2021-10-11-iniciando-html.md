@@ -83,4 +83,4 @@ Utilizado para navegar de uma página para outra.
         <a href="https://www.w3schools.com">Visite W3Schools.com!</a>
 
 
-Na página da [W3schools](https://www.w3schools.com/tags/tag_ul.asp) você consegue estudar e conhecer outras tags.
+Na página da [W3schools](https://www.w3schools.com/tags/tag_ul.asp){:target="_blank"} você consegue estudar e conhecer outras tags.
