@@ -11,7 +11,7 @@ Se não houvesse o HTML, a página seria um texto sem graça, então o HTML faz 
 
 O HTML possui regras com semântica que são as tags que serão mostradas em blocos com estruturas.
 
-![Semantica de Tags](/imagens/sematica_tag.jpg)
+![Semantica de Tags](/imagens/semantica_tag.jpg)
 
 Um arquivo HTML deve possuir essa 1ª linha de comando que é a declaração de um tipo de documento.
 ```

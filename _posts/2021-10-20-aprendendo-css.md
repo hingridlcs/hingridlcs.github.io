@@ -28,7 +28,7 @@ Vamos entender com exemplos as 4 formas principais desses seletores:
         Exemplo: a[target="_blank"] {}
 
 
-Na versão [CSS 2.1](https://www.w3c.br/divulgacao/guiasreferencia/css2/#mod-fontes) foram criadas muitas técnicas de designers utilizando as propriedades Float, Position e Clear mas eram complicadas de manter e apareceu uma especificação nova chamada CSS Grid Layout onde os elementos filhos do container que divide a grade pode ser posicionados livremente havendo dessa forma a criação de layouts muito melhores.
+Na versão [CSS 2.1](https://www.w3c.br/divulgacao/guiasreferencia/css2/#mod-fontes){:target="_blank"} foram criadas muitas técnicas de designers utilizando as propriedades Float, Position e Clear mas eram complicadas de manter e apareceu uma especificação nova chamada CSS Grid Layout onde os elementos filhos do container que divide a grade pode ser posicionados livremente havendo dessa forma a criação de layouts muito melhores.
 
 
 ![Box Model](/imagens/box_model.png)
@@ -43,7 +43,7 @@ O padding e o border não irão mais alterar as dimensões de um elemento.
 
 Dessa forma Grid Layout se tornou responsivo, melhor controle no alinhamento no grid e nos seus elementos, podendo até mesmo adicionar grids adicionais fora do principal e a criação do z-index para controlar conteudos sobrepostos.
 
-O CSS 3 alterou tudo, as especificações foram alteradas em modulos e cada um tem a sua aprovação independente. Nessa versão vieram as animações ( controle de rotação, movimento e transição ), criações de variáveis, funções e soluções como CSS [Flexible Box Layout Model (Flexbox)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+O CSS 3 alterou tudo, as especificações foram alteradas em modulos e cada um tem a sua aprovação independente. Nessa versão vieram as animações ( controle de rotação, movimento e transição ), criações de variáveis, funções e soluções como CSS [Flexible Box Layout Model (Flexbox)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/){:target="_blank"}.
 
 Variáveis e funções no CSS
 
@@ -61,9 +61,11 @@ Variáveis e funções no CSS
 
 Alguns links para estudos
 
-    https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/
-    https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
-    https://www.ranoya.com/books/public/css/funcoescss.php
+[https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/](https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/)
+
+[https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+
+[https://www.ranoya.com/books/public/css/funcoescss.php](https://www.ranoya.com/books/public/css/funcoescss.php)
 
 
 Existem alguns pré-processadores CSS como Sass, Less e Stylus entre outros. Eles são interpretadores de código e cada um com suas regras geram um codigo CSS. Nos pré-processadores podemos criar variáveis, condicionais, laços, repetições, importações e até heranças.
